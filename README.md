@@ -1,7 +1,7 @@
 IBM Node.js Client-Side form Validation Project
 
-Author: S. Balamurugan
-College: A.V.C College of Engineering
+Author: S. Aswan
+College: B.E.C College of Engineering
 
 Project Overview
 
@@ -67,8 +67,6 @@ node server.js
 Open index.html in your browser and test the form.
 
 Demo
-
-https://balamurugan200526.github.io/NM-Project/
 
 
 Challenges & Solutions
