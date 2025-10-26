@@ -44,11 +44,6 @@ NM-Project/
 
 How to Run Locally
 
-Clone the repository:
-
-git clone https://github.com/Balamurugan200526/NM-Project.git
-
-
 Navigate to the project folder:
 
 C:\xampp\htdocs\NM-Project\backend
